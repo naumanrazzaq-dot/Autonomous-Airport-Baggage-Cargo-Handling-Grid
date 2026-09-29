@@ -1,1 +1,1 @@
-# Autonomous-Airport-Baggage-Cargo-Handling-Grid
+This file implements a baggage handling system with two types of terminals: Passenger Carousel and Heavy Cargo Bay. It includes functionality for processing bags, calculating efficiency scores, and generating reports.
